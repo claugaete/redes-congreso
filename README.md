@@ -7,6 +7,11 @@ Diputados de Chile según qué tan parecido vota cada par de diputados.
 ![Red de similitud entre miembros de la Cámara de Diputadas y Diputados de
 Chile](img/red.png)
 
+Se consideró que dos diputados votaban parecido si, en las votaciones donde
+ambos diputados participaban y que no eran unánimes (tenían entre un 20% y un
+80% de votos a favor), los diputados votaban de igual manera en más de la mitad
+de los casos.
+
 Se observa la formación de seis comunidades con distintas relaciones entre sí.
 Estas comunidades corresponden principalmente a bloques políticos establecidos,
 aunque igualmente se presentan resultados interesantes (p.ej. la división de
